@@ -17,7 +17,7 @@ A workout tracker that allows you to log multiple exercises in a workout on a gi
 
 ## Installation & Technology
 ``` npm i ``` <br>
-Jest <br>
+
 MongoDB <br>
 JavaScript <br>
 HTML <br>
@@ -59,9 +59,6 @@ Jessamyn McTwigan https://github.com/jessamyn27
 
 ## Visuals
 
-https://drive.google.com/file/d/1S9OMEkKpCnQldE48UJ6-jXmmkaQH14bq/view?usp=sharing <br>
-
-https://drive.google.com/file/d/14v81ixd3o6kBzlxjxzjMDQ8lxvzoGtTo/view?usp=sharing
 
 ## Questions
 If you have any questions you can reach me at: <br>
